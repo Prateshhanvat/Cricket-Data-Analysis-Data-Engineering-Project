@@ -1,7 +1,9 @@
 # Cricket-Data-Analysis-Data-Engineering-Project
 In Data Engineering, the process of transforming raw data into meaningful visual insights is both challenging and rewarding. This guide takes you through the detailed steps of building a robust cricket statistics pipeline with Google Cloud services. From fetching data through the Cricbuzz API to loading data into Big Query for visualization, each stage plays a vital role in ensuring a smooth data flow for analysis and visualization.
 
+### Architecture
 
+![Architecture](https://github.com/Prateshhanvat/Cricket-Data-Analysis-Data-Engineering-Project/blob/main/Pipeline_Architecture.png)
 
 
 ### Data Retrieval with Python and Cricbuzz API : -
